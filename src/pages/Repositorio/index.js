@@ -1,4 +1,4 @@
-import "./repositorio.css";
+import "./styles.js";
 
 export default function Repositorio(){
     return(
